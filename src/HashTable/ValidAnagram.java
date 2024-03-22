@@ -36,6 +36,8 @@ public class ValidAnagram {
 }
 
 /**
+ * Problem: https://leetcode.com/problems/valid-anagram/description/
+ *
  * Note: create a hashmap and store the count of each character available in the string, then compare the hash map,
  * if equal then return true else return false.
  *
