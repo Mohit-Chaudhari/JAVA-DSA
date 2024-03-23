@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/mohit-chaudhari-1018/)
 [![Download Resume](https://img.shields.io/badge/View-Resume-neon?style=plastic&logo=travis)](https://bit.ly/Mohit-Chaudhari-resume)
 
+
 - Hash Map
   - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/HashTable/ContainsDuplicate.java'>Contains Duplicate</a>
   - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/HashTable/ValidAnagram.java'>Valid Anagram</a>
@@ -14,6 +15,11 @@
   - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/Recursion/PrintNumbers.java'>Print Numbers</a>
   - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/Recursion/SumOfNaturalNumbers.java'>Summ Of Natural Numbers</a>
 
+---
+## Popular Repositories
+
+[![Level-Up-Coding](https://github-readme-stats.vercel.app/api/pin/?username=Mohit-Chaudhari&repo=Level-Up-Coding)](https://github.com/Mohit-Chaudhari/Level-Up-Coding)
+[![Level-Up-Coding](https://github-readme-stats.vercel.app/api/pin/?username=Mohit-Chaudhari&repo=Design-Patterns)](https://github.com/Mohit-Chaudhari/Design-Patterns)
 ---
 
 <p align="center"> 
@@ -25,8 +31,6 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Mohit-Chaudhari/count.svg" alt="Mohit-Chaudhari profile views" /> <br/>
 </p>
-
----
 
 <p align="center">
   Made with ❤️ in Nashik, Maharashtra, India 🇮🇳 
