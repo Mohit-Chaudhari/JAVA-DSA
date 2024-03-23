@@ -1,5 +1,10 @@
 # JAVA-DSA | Author - Mohit Chaudhari
 
+[![GitHub followers](https://img.shields.io/github/followers/Mohit-Chaudhari?label=Follow&style=social)](https://github.com/Mohit-Chaudhari)
+[![GitHub stars](https://img.shields.io/github/stars/Mohit-Chaudhari/JAVA-DSA?style=social)](https://github.com/Mohit-Chaudhari/JAVA-DSA/stargazers)
+
+
+
 - Hash Map
   - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/HashTable/ContainsDuplicate.java'>Contains Duplicate</a>
   - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/HashTable/ValidAnagram.java'>Valid Anagram</a>
