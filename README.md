@@ -1,8 +1,10 @@
 # JAVA-DSA | Author - Mohit Chaudhari
 
-![GitHub Repo Views](https://img.shields.io/github/watchers/Mohit-Chaudhari/JAVA-DSA?label=Views&style=plastic)
-[![GitHub followers](https://img.shields.io/github/followers/Mohit-Chaudhari?label=Follow&style=plastic)](https://github.com/Mohit-Chaudhari)
-[![GitHub stars](https://img.shields.io/github/stars/Mohit-Chaudhari/JAVA-DSA?style=plastic)](https://github.com/Mohit-Chaudhari/JAVA-DSA/stargazers)
+![GitHub Repo Views](https://img.shields.io/github/watchers/Mohit-Chaudhari/JAVA-DSA?label=Views&style=plastic&logo=github)
+[![GitHub followers](https://img.shields.io/github/followers/Mohit-Chaudhari?label=Follow&style=plastic&logo=github)](https://github.com/Mohit-Chaudhari)
+[![GitHub stars](https://img.shields.io/github/stars/Mohit-Chaudhari/JAVA-DSA?style=plastic&logo=github)](https://github.com/Mohit-Chaudhari/JAVA-DSA/stargazers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/mohit-chaudhari-1018/)
+[![Download Resume](https://img.shields.io/badge/View-Resume-neon?style=plastic&logo=travis)](https://bit.ly/Mohit-Chaudhari-resume)
 
 - Hash Map
   - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/HashTable/ContainsDuplicate.java'>Contains Duplicate</a>
