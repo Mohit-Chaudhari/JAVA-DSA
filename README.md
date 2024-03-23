@@ -10,6 +10,7 @@
 - Hash Map
   - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/HashTable/ContainsDuplicate.java'>Contains Duplicate</a>
   - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/HashTable/ValidAnagram.java'>Valid Anagram</a>
+  - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/HashTable/TwoSum.java'>Two Sum</a>
 
 - Recursion
   - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/Recursion/PrintNumbers.java'>Print Numbers</a>
