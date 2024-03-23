@@ -1,5 +1,6 @@
 # JAVA-DSA | Author - Mohit Chaudhari
 
+![GitHub Repo Views](https://img.shields.io/github/watchers/Mohit-Chaudhari/JAVA-DSA?label=Views&style=social)
 [![GitHub followers](https://img.shields.io/github/followers/Mohit-Chaudhari?label=Follow&style=social)](https://github.com/Mohit-Chaudhari)
 [![GitHub stars](https://img.shields.io/github/stars/Mohit-Chaudhari/JAVA-DSA?style=social)](https://github.com/Mohit-Chaudhari/JAVA-DSA/stargazers)
 
