@@ -7,10 +7,11 @@
 [![Download Resume](https://img.shields.io/badge/View-Resume-neon?style=plastic&logo=travis)](https://bit.ly/Mohit-Chaudhari-resume)
 
 
-- Hash Map
+- Arrays And Hash Table
   - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/ArraysAndHashTable/ContainsDuplicate.java'>Contains Duplicate</a>
   - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/ArraysAndHashTable/ValidAnagram.java'>Valid Anagram</a>
   - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/ArraysAndHashTable/TwoSum.java'>Two Sum</a>
+  - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/ArraysAndHashTable/GroupAnagrams.java'>Group Anagrams</a>
 
 - Recursion
   - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/Recursion/PrintNumbers.java'>Print Numbers</a>
