@@ -8,15 +8,17 @@
 
 
 - Arrays And Hash Table
-  - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/ArraysAndHashTable/ContainsDuplicate.java'>Contains Duplicate</a>
-  - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/ArraysAndHashTable/ValidAnagram.java'>Valid Anagram</a>
-  - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/ArraysAndHashTable/TwoSum.java'>Two Sum</a>
-  - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/ArraysAndHashTable/GroupAnagrams.java'>Group Anagrams</a>
-  - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/ArraysAndHashTable/ProductOfArrayExceptSelf.java'>Product Of Array Except Self</a>
+  - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/arraysandhashtable/ContainsDuplicate.java'>Contains Duplicate</a>
+  - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/arraysandhashtable/ValidAnagram.java'>Valid Anagram</a>
+  - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/arraysandhashtable/TwoSum.java'>Two Sum</a>
+  - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/arraysandhashtable/GroupAnagrams.java'>Group Anagrams</a>
+  - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/arraysandhashtable/ProductOfArrayExceptSelf.java'>Product Of Array Except Self</a>
 
+- Two Pointers
+  - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/twopointers/ValidPalindrome.java'>Valid Palindrome</a>
 - Recursion
-  - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/Recursion/PrintNumbers.java'>Print Numbers</a>
-  - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/Recursion/SumOfNaturalNumbers.java'>Summ Of Natural Numbers</a>
+  - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/recursion/PrintNumbers.java'>Print Numbers</a>
+  - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/recursion/SumOfNaturalNumbers.java'>Sum Of Natural Numbers</a>
 
 ---
 ## Popular Repositories
