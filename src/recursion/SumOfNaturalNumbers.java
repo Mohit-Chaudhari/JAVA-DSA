@@ -1,4 +1,4 @@
-package Recursion;
+package recursion;
 
 /**
  * Prints the sum of first N natural numbers

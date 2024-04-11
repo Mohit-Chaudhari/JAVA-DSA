@@ -1,4 +1,4 @@
-package ArraysAndHashTable;
+package arraysandhashtable;
 
 /**
  * @author Mohit Chaudhari

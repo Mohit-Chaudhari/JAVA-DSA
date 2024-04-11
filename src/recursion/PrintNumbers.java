@@ -1,4 +1,4 @@
-package Recursion;
+package recursion;
 
 /**
  * Prints numbers in descending order using recursion
