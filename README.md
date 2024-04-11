@@ -16,6 +16,7 @@
 
 - Two Pointers
   - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/twopointers/ValidPalindrome.java'>Valid Palindrome</a>
+  - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/twopointers/TwoSum2InputArraySorted.java'>Two sum 2 - Input array sorted</a>
 - Recursion
   - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/recursion/PrintNumbers.java'>Print Numbers</a>
   - <a href='https://github.com/Mohit-Chaudhari/JAVA-DSA/blob/main/src/recursion/SumOfNaturalNumbers.java'>Sum Of Natural Numbers</a>
